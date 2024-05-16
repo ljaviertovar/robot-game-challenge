@@ -35,7 +35,7 @@ export default function useGame() {
 	}, [score, addScore, gameOver, playGame, player, setPlayer])
 
 	useEffect(() => {
-		let interval: NodeJS.Timeout | null = null
+		let interval: any
 
 		if (play) {
 			interval = setInterval(() => {
