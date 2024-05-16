@@ -20,6 +20,9 @@
     "noFallthroughCasesInSwitch": true,
     "esModuleInterop": true,
     "allowArbitraryExtensions": true,
+    "types": [
+      "@testing-library/jest-dom"
+    ],
     "baseUrl": ".",
     "paths": {
       "@/*": [
