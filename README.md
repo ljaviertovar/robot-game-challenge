@@ -1,6 +1,11 @@
 # Project Name
 
-ROBOT GAME
+ROBOT GAME 🤖
+
+[Live version](https://main--robotgamechallenge.netlify.app/)
+
+![image](https://github.com/ljaviertovar/robot-game-challenge/assets/34925280/5b4cc2c3-b284-4d88-82df-1114620eb68f)
+
 
 ## Description
 
