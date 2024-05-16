@@ -1,6 +1,4 @@
-# Project Name
-
-ROBOT GAME 🤖
+# ROBOT GAME 🤖
 
 [Live version](https://main--robotgamechallenge.netlify.app/)
 
