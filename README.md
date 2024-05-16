@@ -4,7 +4,11 @@ ROBOT GAME
 
 ## Description
 
-This project is a web application built using JavaScript, TypeScript, and React. It is managed with pnpm.
+This project is a web-based game built using JavaScript, TypeScript, and React. It is managed with pnpm. The game is part of a frontend challenge and showcases the use of modern web technologies and best practices for building interactive user interfaces.
+
+## Challenge
+
+The challenge involves creating a game where a robot navigates a grid. The robot's movements are determined by a set of rules and commands that the player inputs. The goal of the challenge is to demonstrate proficiency in JavaScript, TypeScript, React, and general frontend development skills.
 
 ## Installation
 
@@ -12,7 +16,7 @@ Before you start, make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate into the project directory: `cd <project-name>`
-3. Install the dependencies: `npm install`
+3. Install the dependencies: `pnpm install`
 
 ## Usage
 
